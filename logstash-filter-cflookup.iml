@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="addressable (v2.3.8, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="axiom-types (v0.1.1, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="backports (v3.6.4, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.9.2, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cabin (v0.7.1, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="clamp (v0.6.4, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.0, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coercible (v1.0.0, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="descendants_tracker (v0.0.4, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="equalizer (v0.0.11, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="excon (v0.45.1, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="file-dependencies (v0.1.6, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="filesize (v0.0.4, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ftw (v0.0.42, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="http_parser.rb (v0.6.0, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.9, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ice_nine (v0.11.1, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jar-dependencies (v0.1.7, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="logstash (v1.5.0.rc3.snapshot1@b7c1d3, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="logstash-codec-plain (v0.1.5, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="maven-tools (v1.0.7, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="method_source (v0.8.2, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v2.4.3, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitar (v0.5.4, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="oj (v2.12.1, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pg (v0.18.1, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.5, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry (v0.10.1, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v1.6.0, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-protection (v1.5.3, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-maven (v3.1.1.0.8, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-maven-libs (v3.1.1, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sinatra (v1.4.6, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="slop (v3.6.0, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="stud (v0.0.19, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.5, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v2.0.1, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.15, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="virtus (v1.0.5, RVM: ruby-1.9.3-p550) [gem]" level="application" />
+  </component>
+</module>
